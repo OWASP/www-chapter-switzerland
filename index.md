@@ -10,9 +10,12 @@ currency: eur
 
 OWASP Switzerland
 -------------
-Welcome to the Swiss chapter homepage. The chapter board can be found [here](leaders.md).
- 
-Follow chapter news on [Meetup.com](https://www.meetup.com/OWASPSwitzerland/) and [Twitter](https://twitter.com/owasp_ch)
+Welcome to the Swiss chapter homepage.
+
+Follow chapter news on:
+
+[![Meetup](/www-chapter-switzerland/assets/images/meetup.png)](https://www.meetup.com/OWASPSwitzerland/)
+[![Twitter](/www-chapter-switzerland/assets/images/twitter.png)](https://twitter.com/owasp_ch)
 
 In case you are living in the French speaking part of Switzerland, please also visit the 
 [OWASP Geneva chapter](https://www2.owasp.org/www-chapter-geneva/) for more information.
