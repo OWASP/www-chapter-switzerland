@@ -1,3 +1,5 @@
+![OWASP Switzerland logo](/assets/images/owasp_switzerland_logo.png)
+
 ### Chapter Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/switzerland-chapter)
