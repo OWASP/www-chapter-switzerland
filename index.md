@@ -2,12 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Switzerland
-tags: example-tag
-level: 0
-
+tags: switzerland
 region: Europe
-
-auto-migrated: 1
+currency: chf
 
 ---
 
