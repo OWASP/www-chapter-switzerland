@@ -2,53 +2,38 @@
 
 layout: col-sidebar
 title: OWASP Switzerland
-tags: example-tag
-level: 0
-
+tags: switzerland
 region: Europe
-
-auto-migrated: 1
+currency: eur
 
 ---
 
+OWASP Switzerland
+-------------
+Welcome to the Swiss chapter homepage. The chapter board can be found [here](leaders.md).
+ 
+Follow chapter news on [Meetup.com](https://www.meetup.com/OWASPSwitzerland/) and [Twitter](https://twitter.com/owasp_ch)
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+In case you are living in the French speaking part of Switzerland, please also visit the 
+[OWASP Geneva chapter](https://www2.owasp.org/www-chapter-geneva/) for more information.
 
-{front matter for this file}
+#### Call For Speakers
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Call For Speakers is open. If you would like to present a talk on Application Security at future OWASP Switzerland Chapter 
+events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed 
+talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Next Meeting/Event(s)
+---------------------
+Please see [Meetup.com](https://www.meetup.com/OWASPSwitzerland/) for upcoming meetings and events.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+##### Tickets:
+Our event are free to attend for both [members](https://www2.owasp.org/membership) and non-members of OWASP and is open to anyone interested in application 
+security and cyber security. Please note that you MUST REGISTER to book your place and get a ticket to be admitted to 
+the event by the building security - your name will be checked against the guest list.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+##### Code of Conduct:
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and 
+welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like 
+to speak to us, we take these matters very seriously. You can find out more about our policies here: 
+<https://www.owasp.org/index.php/Governance/Conference_Policies>
