@@ -34,7 +34,7 @@ Welcome to the Home Page of the OWASP Switzerland Chapter.
 
 
 If you're living in the French speaking part of Switzerland, please also
-visit the **[OWASP Geneva chapter](Geneva "wikilink")** for more
+visit the **[OWASP Geneva chapter](Geneva )** for more
 information.
 
 # Next Meetings
@@ -1007,7 +1007,7 @@ Our main topics are:
 
 
 If you would like to give a presentation (make sure that you have read
-and understood the [speaker agreement](Speaker_Agreement "wikilink")),
+and understood the [speaker agreement](Speaker_Agreement )),
 or have any questions about the OWASP Switzerland Chapter, send an email
 to [Robert Schneider](mailto:robert.schneider__AT__owasp.org).
 
@@ -1015,7 +1015,7 @@ to [Robert Schneider](mailto:robert.schneider__AT__owasp.org).
 
 Help us to make application security visible and become a supporter of
 the OWASP or our Chapter in Switzerland. All information about becoming
-a member/sponsor can be found [here](Membership "wikilink").
+a member/sponsor can be found [here](Membership ).
 
 If your company is interested in supporting us directly, please contact
 [Sven Vetsch](mailto:sven.vetsch__AT__owasp.org) to talk about the
@@ -1035,10 +1035,10 @@ following sponsoring possibilities.
 Here you can find material related to the OWASP Switzerland Chapter.
 
 **OWASP Switzerland bylaws (in German)**
-[Download bylaws](Media:Bylaws_owasp_switzerland.pdf "wikilink")
+[Download bylaws](Media:Bylaws_owasp_switzerland.pdf )
 
 **OWASP Switzerland Update Presentation (December 13th 2011)**
-[Download Presentation](Media:Owasp_update_presentation.pdf "wikilink")
+[Download Presentation](/www-pdf-archive/Owasp_update_presentation.pdf )
 
 <headertabs></headertabs>
 
@@ -1046,6 +1046,6 @@ Here you can find material related to the OWASP Switzerland Chapter.
 | --------------------------------------------------------------------------- | ----------------------------------------------------- |
 | ![Mailinglist_button.png](Mailinglist_button.png "Mailinglist_button.png") | ![Meetup-logo.png](Meetup-logo.png "Meetup-logo.png") |
 
-[Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Switzerland](Category:Switzerland "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+[Category:OWASP_Chapter](Category:OWASP_Chapter )
+[Category:Switzerland](Category:Switzerland )
+[Category:Europe](Category:Europe )
