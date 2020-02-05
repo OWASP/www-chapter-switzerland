@@ -8,8 +8,6 @@ currency: eur
 
 ---
 
-OWASP Switzerland
--------------
 Welcome to the Swiss chapter homepage.
 
 Follow chapter news on:
