@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Switzerland
-tab: false
+level: 0
 tags: switzerland
 region: Europe
 currency: eur
