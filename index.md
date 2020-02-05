@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Switzerland
+tab: false
 tags: switzerland
 region: Europe
 currency: eur
@@ -31,8 +32,8 @@ Next Meeting/Event(s)
 Please see [Meetup.com](https://www.meetup.com/OWASPSwitzerland/) for upcoming meetings and events.
 
 #### Tickets:
-Our event are free to attend for both [members](https://www2.owasp.org/membership) and non-members of OWASP and is open 
-to anyone interested in application security and cyber security. Please note that you MUST REGISTER to book your place 
+Our events are free to attend for both [members](https://www2.owasp.org/membership) and non-members of OWASP and are open 
+to anyone interested in application security and cyber security. Please note that you MUST REGISTER on Meetup.com to book your place 
 and get a ticket to be admitted to the event by the building security - your name will be checked against the guest list.
 
 #### Code of Conduct:

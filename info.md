@@ -17,5 +17,3 @@
 * [Page Repo](https://github.com/OWASP/www-chapter-switzerland)
 * [Slides Repo](https://github.com/OWASP/www-chapter-switzerland/tree/master/assets/slides)
 
-### Change Log
-* [Changes](https://github.com/OWASP/www-chapter-switzerland/commits/master)
