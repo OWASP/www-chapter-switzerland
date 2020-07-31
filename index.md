@@ -5,6 +5,9 @@ title: OWASP Switzerland
 tags: switzerland
 region: Europe
 currency: eur
+meetup-group: OWASPSwitzerland
+country: Switzerland
+postal-code: 
 
 ---
 
