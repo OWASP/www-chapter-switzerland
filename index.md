@@ -29,7 +29,7 @@ and send the proposed talk title, abstract and speaker bio to the [Chapter Leade
 
 Next Meeting/Event(s)
 ---------------------
-Please see [Meetup.com](https://www.meetup.com/OWASPSwitzerland/) for upcoming meetings and events.
+{% include chapter_events.html group=page.meetup-group %}
 
 #### Tickets:
 Our events are free to attend for both [members](https://owasp.org/membership/) and non-members of OWASP and are open 
