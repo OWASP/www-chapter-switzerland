@@ -3,7 +3,7 @@
 ### Chapter Information
 * [Become a Member](https://owasp.org/membership/)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/switzerland-chapter)
-* [Local Chapter Support](https://owasp.org/www-policy/operational/chapter-handbook-existing#chapter-sponsors--local-and-global)
+* [Local Chapter Support]()
 * [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 * [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
