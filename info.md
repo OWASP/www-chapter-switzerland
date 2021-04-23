@@ -1,12 +1,12 @@
 ![OWASP Switzerland logo](/www-chapter-switzerland/assets/images/owasp_switzerland_logo.png)
 
 ### Chapter Information
-* [Become a Member](https://owasp.org/membership/)
+* [Become a Member](/membership/)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/switzerland-chapter)
 * [Local Chapter Support]()
-* [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
-* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
-* [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
+* [Chapter Policy](/www-policy/operational/chapters)
+* [Speaker Agreement](/www-policy/legal/speaker-agreement)
+* [Code of Conduct](/www-policy/operational/code-of-conduct)
 
 ### Social Links
 * [Meetup.com](https://www.meetup.com/OWASPSwitzerland/)
