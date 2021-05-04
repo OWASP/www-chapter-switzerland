@@ -12,7 +12,7 @@
 
 * [Meetup.com](https://www.meetup.com/OWASPSwitzerland/)
 * [Twitter](https://twitter.com/owasp_ch)
-* [YouTube](https://www.youtube.com/user/OWASPGLOBAL)
+* [YouTube](https://www.youtube.com/channel/UCut4rjo2pUSdtnX3hUbi9_Q) [[Global](https://www.youtube.com/user/OWASPGLOBAL)]
 
 ### Code Repository
 
