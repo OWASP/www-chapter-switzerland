@@ -31,7 +31,8 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 ## Past events
 
-- 2021-04-14: **Matt Tesauro & Fred Blaise** with **_OWASP DefectDojo - the Heart of your AppSec Automation_** ([Recording](https://youtu.be/wpvOdsbX7sU))
+- 2021-04-14: **Matt Tesauro & Fred Blaise** with **_OWASP DefectDojo - the Heart of your AppSec Automation_** ([Recording](https://youtu.be/wpvOdsbX7sU))\
+[![Recording of OWASP DefectDojo - The Heart of your AppSec Automation](https://img.youtube.com/vi/wpvOdsbX7sU/0.jpg)](https://www.youtube.com/watch?v=wpvOdsbX7sU "OWASP DefectDojo - The Heart of your AppSec Automation")
 - 2021-02-09: **Simon Bennetts** with **_ZAP Automation in CI/CD_** ([Recording](https://youtu.be/tR93F-llbo8))
 - 2020-12-02: **Clara McCreery** with **_Enforcing Code & Security Standards with Semgrep_**
 - 2020-10-07: **Dr. Martin Burkhart** with **_OWASP API Security Top 10_**
