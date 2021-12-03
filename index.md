@@ -31,6 +31,7 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 ## Past events
 
+- 2021-12-02: **Irasara Senarathne & Benedikt Tröster** with **_[Security aboard the Niantic ship (game producing company)](https://youtu.be/DErHksAXSC8)_**
 - 2021-11-13: **Manuel Cianci** with **_[Application Security best practices](https://youtu.be/8ZVFDZWkkac)_**
 - 2021-06-21: **Steve Springett** with **_[Reducing Supply Chain Risk with SBOMs and Dependency-Track](https://youtu.be/n2PEezeuMqE)_**
 - 2021-04-14: **Matt Tesauro & Fred Blaise** with **_[OWASP DefectDojo - the Heart of your AppSec Automation](https://youtu.be/wpvOdsbX7sU)_**
