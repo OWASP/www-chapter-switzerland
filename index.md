@@ -31,7 +31,7 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 ## Past events
 
-- 2022-02-08: **Patrick Steger** with **_[Token-based authentication architectures](https://youtu.be/VoA-VWUtuD0)_**
+- 2022-03-22: **Patrick Steger** with **_[Token-based authentication architectures](https://youtu.be/VoA-VWUtuD0)_**
 - 2022-02-08: **Peter Šufliarsky** with **_[OWASP Top 10 2021](https://youtu.be/tOODAwc--Uc)_**
 - 2021-12-02: **Irasara Senarathne & Benedikt Tröster** with **_[Security aboard the Niantic ship (game producing company)](https://youtu.be/DErHksAXSC8)_**
 - 2021-11-13: **Manuel Cianci** with **_[Application Security best practices](https://youtu.be/8ZVFDZWkkac)_**
