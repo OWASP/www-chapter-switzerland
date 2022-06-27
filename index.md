@@ -31,6 +31,7 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 ## Past events
 
+- 2022-06-27 **Miloš Božović** with **_[Surviving the security challenges in a SME (tales from the CISO)](https://youtu.be/fFwP3lKtLuE)_**
 - 2022-05-10: **Miljan Lalic** with **_[Why Threat Modeling is much more than just threat hunting](https://youtu.be/unzOIjbDU3o)_**
 - 2022-03-22: **Patrick Steger** with **_[Token-based authentication architectures](https://youtu.be/VoA-VWUtuD0)_**
 - 2022-02-08: **Peter Šufliarsky** with **_[OWASP Top 10 2021](https://youtu.be/tOODAwc--Uc)_**
