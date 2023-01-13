@@ -31,6 +31,7 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 ## Past events
 
+- 2023-01-12 **Sebastien Deleersnyder** with **_[Bootstrap and increase your software assurance with OWASP SAMM v2.1](https://youtu.be/r2D5A0KIXLw)_**
 - 2022-06-27 **Miloš Božović** with **_[Surviving the security challenges in a SME (tales from the CISO)](https://youtu.be/fFwP3lKtLuE)_**
 - 2022-05-10: **Miljan Lalic** with **_[Why Threat Modeling is much more than just threat hunting](https://youtu.be/unzOIjbDU3o)_**
 - 2022-03-22: **Patrick Steger** with **_[Token-based authentication architectures](https://youtu.be/VoA-VWUtuD0)_**
