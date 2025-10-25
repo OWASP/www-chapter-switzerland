@@ -1,0 +1,34 @@
+community:
+  - name: chapter-switzerland
+    platform: slack
+    url: https://owasp.slack.com/archives/C04TJE06D
+currency: EUR
+leaders:
+  - name: Patrick Steger
+    email: //padi.steger@owasp.org
+    github: Padi-owasp
+  - name: Sven Vetsch
+    email: //sven.vetsch@owasp.org
+    github: disenchant
+  - name: Manuel Walder
+    email: manuel.walder@owasp.org
+    github: manuelWalder
+  - name: Federico Casano
+    email: federico.casano@owasp.org
+location:
+  country: Switzerland
+  country_code: CH
+  region: Europe
+  latitude: 46.7985624
+  longitude: 8.2319736
+meetup_group: OWASPSwitzerland
+name: OWASP Switzerland
+repositories:
+  - name: www-chapter-switzerland
+    url: https://github.com/OWASP/www-chapter-switzerland
+    description: OWASP Foundation Web Repository
+tags:
+  - switzerland
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-switzerland
