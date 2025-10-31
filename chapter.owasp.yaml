@@ -2,7 +2,7 @@ community:
   - name: chapter-switzerland
     platform: slack
     url: https://owasp.slack.com/archives/C04TJE06D
-currency: EUR
+currency: CHF
 leaders:
   - name: Patrick Steger
     email: //padi.steger@owasp.org
@@ -29,6 +29,7 @@ repositories:
     description: OWASP Foundation Web Repository
 tags:
   - switzerland
-  - custom-tag-1
-  - custom-tag-2
+  - zurich
+  - bern
+  - lucerne
 website: https://owasp.org/www-chapter-switzerland
