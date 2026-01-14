@@ -17,7 +17,7 @@ Welcome to the Swiss chapter homepage.
 Follow chapter news on:
 
 [![Meetup](/www-chapter-switzerland/assets/images/meetup.png)](https://www.meetup.com/OWASPSwitzerland/)
-[![Twitter](/www-chapter-switzerland/assets/images/twitter.png)](https://twitter.com/owasp_ch)
+[![LinkedIn](/www-chapter-switzerland/assets/images/linkedin.png)](https://www.linkedin.com/company/owasp-switzerland/)
 
 In case you are living in the French-speaking part of Switzerland, please also visit the [OWASP Geneva chapter](/www-chapter-geneva/) for more information.
 
@@ -27,10 +27,14 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 ## Upcoming events
 
-{% include chapter_events.html group=page.meetup-group %}
+Please signup to our Meetup group or follow us on LinkedIn to stay updated with upcoming events
 
-## Past events
+[![Meetup](/www-chapter-switzerland/assets/images/meetup.png)](https://www.meetup.com/OWASPSwitzerland/) https://www.meetup.com/OWASPSwitzerland/
 
+## Past events (List not up-to-date)
+
+- See Meetup for 2025
+- See Meetup for 2024
 - 2023-09-18 **Steve Wilson** with **_[OWASP Top 10 for Large Language Model Applications (for AI systems)](https://www.youtube.com/live/5DMJ1r9-XEk?si=WZnTBK483F552-nh)_**
 - 2023-01-12 **Sebastien Deleersnyder** with **_[Bootstrap and increase your software assurance with OWASP SAMM v2.1](https://youtu.be/r2D5A0KIXLw)_**
 - 2022-06-27 **Miloš Božović** with **_[Surviving the security challenges in a SME (tales from the CISO)](https://youtu.be/fFwP3lKtLuE)_**
@@ -53,7 +57,7 @@ For the slides see: [Slides repo](https://github.com/OWASP/www-chapter-switzerla
 
 ### Tickets
 
-Our events are free to attend for both [members](/membership/) and non-members of OWASP and are open to anyone interested in application security and cybersecurity. Please note that you MUST REGISTER on Meetup.com to book your place and get a ticket to be admitted to the event by the building security - your name will be checked against the guest list.
+Our events are free to attend for both [members](/membership/) and non-members of OWASP and are open to anyone interested in application security and cybersecurity in general. Please note that you MUST REGISTER on Meetup.com to book your place and get a ticket to be admitted to the event by the building security - your name will be checked against the guest list.
 
 ### Code of Conduct
 
