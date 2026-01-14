@@ -56,7 +56,7 @@ Please signup to our Meetup group or follow us on LinkedIn to stay updated with 
 - 2020-02-26: **Sven Vetsch** with **_OWASP Top 10 – Back to Basics_**
 - 2019-11-18: **Björn Kimminich** with **_The OWASP Juice Shop_**
 
-[Outdated] For the slides see: [Slides repo](https://github.com/OWASP/www-chapter-switzerland/tree/master/assets/slides)
+[OUTDATED] For the slides see: [Slides repo](https://github.com/OWASP/www-chapter-switzerland/tree/master/assets/slides)
 
 
 ### Tickets
