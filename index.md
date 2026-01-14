@@ -28,7 +28,8 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 ## Upcoming events
 
 Please signup to our Meetup group or follow us on LinkedIn to stay updated with upcoming events
-[![Meetup](/www-chapter-switzerland/assets/images/meetup.png)](https://www.meetup.com/OWASPSwitzerland/)
+
+[![Meetup](/www-chapter-switzerland/assets/images/meetup.png)](https://www.meetup.com/OWASPSwitzerland/) https://www.meetup.com/OWASPSwitzerland/
 
 ## Past events (List not up-to-date)
 
