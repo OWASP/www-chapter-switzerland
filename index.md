@@ -17,7 +17,7 @@ Welcome to the Swiss chapter homepage.
 Follow chapter news on:
 
 [![Meetup](/www-chapter-switzerland/assets/images/meetup.png)](https://www.meetup.com/OWASPSwitzerland/)
-[![LinkedIn](/www-chapter-switzerland/assets/images/twitter.png)](https://www.linkedin.com/company/owasp-switzerland/)
+[![LinkedIn](/www-chapter-switzerland/assets/images/linkedin.png)](https://www.linkedin.com/company/owasp-switzerland/)
 
 In case you are living in the French-speaking part of Switzerland, please also visit the [OWASP Geneva chapter](/www-chapter-geneva/) for more information.
 
