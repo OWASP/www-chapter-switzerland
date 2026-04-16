@@ -1,6 +1,5 @@
 ### Leaders
 
 * [Patrick Steger](mailto://padi.steger@owasp.org)
-* [Sven Vetsch](mailto://sven.vetsch@owasp.org)
 * [Manuel Walder](mailto:manuel.walder@owasp.org)
 * [Federico Casano](mailto:federico.casano@owasp.org)
